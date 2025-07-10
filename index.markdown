@@ -10,7 +10,7 @@ layout: default
 _The following programme is tentative and is subject to change_
 ### Day 1
 
-| Timings     | Monday 13/01/25                    | Presenter           | Location |
+| Timings     | Monday 07/09/26                    | Presenter           | Location |
 |-------------|------------------------------------|---------------------|----------|
 | 12:00-1:00  | Registration & Lunch               |                     | |
 | 1:00-1:10   | Welcome                            |                     | |
@@ -21,7 +21,7 @@ _The following programme is tentative and is subject to change_
 
 ### Day 2
 
-| Timings     | Tuesday 14/01/25                       | Presenter           | Location |
+| Timings     | Tuesday 08/09/26                       | Presenter           | Location |
 |-------------|----------------------------------------|---------------------|---------|
 | 9:30-10:15  | Mental Health in Academic Researcher   |                     | |
 | 10:15-10:45 | Coffee                                 |                     | |
@@ -39,7 +39,7 @@ _The following programme is tentative and is subject to change_
 
 ### Day 3
 
-| Timings     | Wednesday 15/01/25                      | Presenter           | Location  |
+| Timings     | Wednesday 09/09/26                      | Presenter           | Location  |
 |-------------|-----------------------------------------|---------------------|-----------|
 | 9:30-10:00  | Tips and Tricks in Grant Writing        |                     |  |
 | 10:00-10:30 | Coffee                                  |                     |  |
