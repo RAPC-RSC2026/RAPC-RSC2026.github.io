@@ -10,45 +10,46 @@ layout: default
 _The following programme is tentative and is subject to change_
 ### Day 1
 
-| Timings     | Monday 13/01/25               | Presenter           | Location |
-|-------------|-------------------------------|---------------------|----------|
-| 12:00-1:00  | Registration & Lunch          |                     | |
-| 1:00-1:10   | Welcome                       |           | |
-| 1:10-3:30   | Networking Talks              | Attendees           | |
-| 3:30-4:00   | Coffee Break                  |                     | |
-| 4:00-5:00   | Getting Started with Teaching |        | |
-| 5:00-6:00   | Questions and Networking      | Attendees           | |
+| Timings     | Monday 13/01/25                    | Presenter           | Location |
+|-------------|------------------------------------|---------------------|----------|
+| 12:00-1:00  | Registration & Lunch               |                     | |
+| 1:00-1:10   | Welcome                            |                     | |
+| 1:10-3:30   | Networking Talks                   | Attendees           | |
+| 3:30-4:00   | Coffee Break                       |                     | |
+| 4:00-5:00   | Career, Life, and Building a Group |                     | |
+| 5:00-6:00   | Questions and Networking           | Attendees           |Molecular Sciences Building |
 
 ### Day 2
 
-| Timings     | Tuesday 14/01/25              | Presenter           | Location |
-|-------------|-------------------------------|---------------------|---------|
-| 9:30-10:30  | Equity, Diversity, Inclusion  | Claire Hobday       | |
-| 10:30-11:00 | Coffee                        |                     | |
-| 11:00-12:30 | Work/Life/Building Group      | Jan Verlet          |MH G0.32 |
-| 12:30-1:30  | Lunch                         |                     |MH G0.32 |
-| 1:30-2:00   | Generating Impact             | Philip Camp         |MH G0.32 |
-| 2:00-2:30   | The Benefits of Outreach      | Jenny Gracie        |MH G0.32 |
-| 2:30-3:00   | Narrative CV                  | Andy Alexander      |MH G0.32 |
-| 3:00-3:30   | Coffee                        |                     |MH G0.32 |
-| 3:30-4:00   | Research Strategy             | Andy Lawrence       |MH G0.32 |
-| 4:00-5:00   | EPSRC Portfolio               | Janette Wark        |MH G0.32 |
-| 5:00-6:00   | Networking                    |                     |Museum Joseph Black Building |
-| 7:00-10:00  | Conference Dinner             |                     |Cannonball Restaurant & Bar |
+| Timings     | Tuesday 14/01/25                       | Presenter           | Location |
+|-------------|----------------------------------------|---------------------|---------|
+| 9:30-10:15  | Mental Health in Academic Researcher   |                     | |
+| 10:15-10:45 | Coffee                                 |                     | |
+| 10:45-11:30 | Equity, Diversity, and Inclusion       |                     | |
+| 11:30-12:30 | Getting Started with Teaching & FEHA   |                     | |
+| 12:30-13:30 | Lunch                                  |                     | |
+| 13:30-14:00 | Narrative CV                           |                     | |
+| 14:00-14.30 | Building Research Strategy             |                     | |
+| 14.30-15.15 | Research Impact                        |                     | |
+| 15:15-15:45 | Coffee                                 |                     | |
+| 15:45-16:15 | Engaging with Industry                 |                     | |
+| 16:15-17:00 | EPSRC Porfolio                         |                     |Molecular Sciences Building |
+| 17:00-18:00 | Networking                             |                     |Molecular Sciences Building |
+| 19:00-22:00 | Conference Dinner                      |                     | TBC |
 
 ### Day 3
 
-| Timings     | Wednesday 15/01/25            | Presenter           | Location  |
-|-------------|-------------------------------|---------------------|-----------|
-| 9:30-11:00  | Leadership Development         | Emily Woollen       | Honours Room 2 (Ashworth Labs) |
-| 10:00-11:30 | Coffee                        |                     | Honours Room 2 (Ashworth Labs) |
-| 11:30-12:15 | Publishing                    | Andrew Bissette     | Honours Room 2 (Ashworth Labs) |
-| 12:15-1:00  | Data Management               | Jeremy Frey         | Honours Room 2 (Ashworth Labs) |
-| 1:00-2:30   | Lunch and Networking          |                     |Museum Joseph Black Building    |
+| Timings     | Wednesday 15/01/25                      | Presenter           | Location  |
+|-------------|-----------------------------------------|---------------------|-----------|
+| 9:30-10:00  | Tips and Tricks in Grant Writing        |                     |  |
+| 10:00-10:30 | Coffee                                  |                     |  |
+| 10:30-11:30 | Data Management                         |                     |  |
+| 11:30-13:00 | Leadership Development                  |                     |  |
+| 13:00-14:00 | Lunch and Networking                    |                     |Museum Joseph Black Building    |
 
 # Sponsors
 
-We would like to thank the following sponsors for generous support of the event.
+We are grateful to the following sponsors for generous support of the event.
 
 
 
@@ -57,8 +58,8 @@ We would like to thank the following sponsors for generous support of the event.
         <td><img src="images/RSC-logo.jpg" alt="RSC Logo" style="width:150px;"></td>
   </tr>
   <tr>
-    # <td><img src="images/PSDI.jpg" alt="PSDI Logo" style="width:150px;"></td>
-    # <td><img src="images/laser-2000-photonics-logo-454x80.png" alt="Laser 2000 Photonics Logo" style="width:150px;"></td>
+    
+   
   </tr>
 </table>
 
@@ -84,5 +85,8 @@ You will receive individual information on your accommodation with rooms reserve
 
 The hotel is located on the University of Birmingham Campus, and is a short <10 min walk away from the Molecualr Sciences Building. 
 
-# FAQ
-Please get in touch via email: a.a.l.michalchuk@bham.ac.uk
+# Organising Team
+For any questions please get in touch by email:
+Dr Adam Michalchuk (University of Birmingham): a.a.l.michalchuk@bham.ac.uk
+Dr Xue Yong (University of Liverpool): Xue.Yong@liverpool.ac.uk
+Dr Miguel Paez-Perez (Imperial College London): m.paez-perez16@imperial.ac.uk
