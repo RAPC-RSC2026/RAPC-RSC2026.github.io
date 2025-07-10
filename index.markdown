@@ -57,10 +57,7 @@ We are grateful to the following sponsors for generous support of the event.
   <tr>
         <td><img src="images/RSC-logo.jpg" alt="RSC Logo" style="width:150px;"></td>
   </tr>
-  <tr>
-    
-   
-  </tr>
+
 </table>
 
 
@@ -90,14 +87,14 @@ For any questions please get in touch by email:
 
 <table>
   <tr>
-        Dr Adam Michalchuk (University of Birmingham): a.a.l.michalchuk@bham.ac.uk
+       <td> Dr Adam Michalchuk (University of Birmingham): a.a.l.michalchuk@bham.ac.uk </td>
   </tr>
   <tr>
-        Dr Xue Yong (University of Liverpool): Xue.Yong@liverpool.ac.uk   
+      <td>  Dr Xue Yong (University of Liverpool): Xue.Yong@liverpool.ac.uk   </td>
   </tr>
   
   <tr>
-        Dr Miguel Paez-Perez (Imperial College London): m.paez-perez16@imperial.ac.uk   
+      <td>  Dr Miguel Paez-Perez (Imperial College London): m.paez-perez16@imperial.ac.uk   </td>
   </tr>
 </table>
 
