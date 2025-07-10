@@ -66,7 +66,7 @@ We would like to thank the following sponsors for generous support of the event.
 
 
 # Locations
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vnSG7xqroUbpY6NA1B-QGZF45vEA-fs&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2431.4928713377685!2d-1.9356864240392058!3d52.45210077204347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bdd7c68704af%3A0xff032a2e9178b909!2sMolecular%20Sciences%20Building!5e0!3m2!1sen!2suk!4v1752160616045!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>" width="640" height="480"></iframe>
 
 
 The event will take place on King's Buildings campus of the University of Edinburgh. 
