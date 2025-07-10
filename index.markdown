@@ -2,29 +2,29 @@
 layout: default
 ---
 
-# Welcome to the Recent Appointees in Physical Chemistry 2025
+# Welcome to the Recent Appointees in Physical Chemistry 2026
 
-**The latest edition of the Recent Appointees in Physical Chemistry organised by the RSC Faraday Council will be held at the University of Edinburgh between the 13/01/2025 and 15/01/2025.**
+**The latest edition of the Recent Appointees in Physical Chemistry organised by the RSC Faraday Council will be held at the University of Birmingham from 07/09/2026 and 09/09/2026.**
 
 # Schedule
-
+_The following programme is tentative and is subject to change_
 ### Day 1
 
 | Timings     | Monday 13/01/25               | Presenter           | Location |
 |-------------|-------------------------------|---------------------|----------|
-| 12:00-1:00  | Registration & Lunch          |                     |Murchison House (MH) |
-| 1:00-1:10   | Welcome                       | Andy Mount          |MH G0.32 |
-| 1:10-3:30   | Networking Talks              | Attendees           |MH G0.32 |
-| 3:30-4:00   | Coffee Break                  |                     |MH G0.32 |
-| 4:00-5:00   | Getting Started with Teaching | Michael Seery       |MH G0.32 |
-| 5:00-6:00   | Questions and Networking      | Attendees           |Museum Joseph Black Building |
+| 12:00-1:00  | Registration & Lunch          |                     | |
+| 1:00-1:10   | Welcome                       |           | |
+| 1:10-3:30   | Networking Talks              | Attendees           | |
+| 3:30-4:00   | Coffee Break                  |                     | |
+| 4:00-5:00   | Getting Started with Teaching |        | |
+| 5:00-6:00   | Questions and Networking      | Attendees           | |
 
 ### Day 2
 
 | Timings     | Tuesday 14/01/25              | Presenter           | Location |
 |-------------|-------------------------------|---------------------|---------|
-| 9:30-10:30  | Equity, Diversity, Inclusion  | Claire Hobday       |MH G0.32 |
-| 10:30-11:00 | Coffee                        |                     |MH G0.32 |
+| 9:30-10:30  | Equity, Diversity, Inclusion  | Claire Hobday       | |
+| 10:30-11:00 | Coffee                        |                     | |
 | 11:00-12:30 | Work/Life/Building Group      | Jan Verlet          |MH G0.32 |
 | 12:30-1:30  | Lunch                         |                     |MH G0.32 |
 | 1:30-2:00   | Generating Impact             | Philip Camp         |MH G0.32 |
