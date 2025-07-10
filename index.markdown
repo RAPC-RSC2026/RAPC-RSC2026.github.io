@@ -54,39 +54,35 @@ We would like to thank the following sponsors for generous support of the event.
 
 <table>
   <tr>
-    <td><img src="images/CCPBioSim.jpg" alt="CCPBioSim" style="width:150px;"></td>
-    <td><img src="images/RSC-logo.jpg" alt="RSC Logo" style="width:150px;"></td>
+        <td><img src="images/RSC-logo.jpg" alt="RSC Logo" style="width:150px;"></td>
   </tr>
   <tr>
-    <td><img src="images/PSDI.jpg" alt="PSDI Logo" style="width:150px;"></td>
-    <td><img src="images/laser-2000-photonics-logo-454x80.png" alt="Laser 2000 Photonics Logo" style="width:150px;"></td>
+    # <td><img src="images/PSDI.jpg" alt="PSDI Logo" style="width:150px;"></td>
+    # <td><img src="images/laser-2000-photonics-logo-454x80.png" alt="Laser 2000 Photonics Logo" style="width:150px;"></td>
   </tr>
 </table>
 
 
 
 # Locations
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2431.4928713377685!2d-1.9356864240392058!3d52.45210077204347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bdd7c68704af%3A0xff032a2e9178b909!2sMolecular%20Sciences%20Building!5e0!3m2!1sen!2suk!4v1752160616045!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2431.4928713377685!2d-1.9356864240392058!3d52.45210077204347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bdd7c68704af%3A0xff032a2e9178b909!2sMolecular%20Sciences%20Building!5e0!3m2!1sen!2suk!4v1752160616045!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
 
 
-The event will take place on King's Buildings campus of the University of Edinburgh. 
+The event will take at the Edgebaston Campus of the University of Birmingham. 
 
-**All talks will take place in Murchison House Room G0.32 on Monday and Tuesday.**
+**All talks and networking events will take place in the Molecular Sciences Building.**
 
-**On Wednesday all talks will take place in the Honours Room 2 of the Ashworth Laboratory.**
 
-Both networking events will be held in the Museum of the Joseph Black Building (Chemistry Building) on Monday and Tuesday. 
+**The Conference Dinner** details will be communicated once available. 
 
-**The Conference Dinner** will be held at Cannonball Restaurant & Bar, 356 Castlehill, Edinburgh EH1 2NF at 7 pm. 
-
-Exhibitors will be found outside of room G0.32 in Murchison House. 
+Exhibitors will be found within the Molecular Sciences Building. 
 
 
 # Accomodation
 You will receive individual information on your accommodation with rooms reserved at:
-[Travelodge Cameron Toll](https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll-hotel).
+.
 
-The hotel is a short 10 min walk away from King's Buildings. 
+The hotel is located on the University of Birmingham Campus, and is a short <10 min walk away from the Molecualr Sciences Building. 
 
 # FAQ
-Please get in touch via email: antonia.mey@ed.ac.uk
+Please get in touch via email: a.a.l.michalchuk@bham.ac.uk
