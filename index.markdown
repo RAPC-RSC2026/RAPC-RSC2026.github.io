@@ -87,6 +87,18 @@ The hotel is located on the University of Birmingham Campus, and is a short <10 
 
 # Organising Team
 For any questions please get in touch by email:
-Dr Adam Michalchuk (University of Birmingham): a.a.l.michalchuk@bham.ac.uk
-Dr Xue Yong (University of Liverpool): Xue.Yong@liverpool.ac.uk
-Dr Miguel Paez-Perez (Imperial College London): m.paez-perez16@imperial.ac.uk
+
+<table>
+  <tr>
+        Dr Adam Michalchuk (University of Birmingham): a.a.l.michalchuk@bham.ac.uk
+  </tr>
+  <tr>
+        Dr Xue Yong (University of Liverpool): Xue.Yong@liverpool.ac.uk   
+  </tr>
+  
+  <tr>
+        Dr Miguel Paez-Perez (Imperial College London): m.paez-perez16@imperial.ac.uk   
+  </tr>
+</table>
+
+
