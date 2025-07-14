@@ -28,7 +28,7 @@ _The following programme is tentative and is subject to change_
 | 10:45-11:30 | Equity, Diversity, and Inclusion       |                     | |
 | 11:30-12:30 | Getting Started with Teaching & FEHA   |                     | |
 | 12:30-13:30 | Lunch                                  |                     | |
-| 13:30-14:00 | Narrative CV                           |                     | |
+| 13:30-14:00 | Narrative CV                           | Prof. Liam Cox      | |
 | 14:00-14.30 | Building Research Strategy             |                     | |
 | 14.30-15.15 | Research Impact                        |                     | |
 | 15:15-15:45 | Coffee                                 |                     | |
