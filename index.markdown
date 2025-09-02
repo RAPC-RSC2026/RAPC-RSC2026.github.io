@@ -45,7 +45,7 @@ _The following programme is tentative and is subject to change_
 | 10:00-10:30 | Coffee                                  |                     |  |
 | 10:30-11:30 | Data Management                         |                     |  |
 | 11:30-13:00 | Leadership Development                  |                     |  |
-| 13:00-14:00 | Lunch and Networking                    |                     |Museum Joseph Black Building    |
+| 13:00-14:00 | Lunch and Networking                    |                     |  |
 
 # Sponsors
 
