@@ -26,14 +26,14 @@ _The following programme is tentative and is subject to change_
 | 9:30-10:15  | Mental Health in Academic Researcher   |                     | |
 | 10:15-10:45 | Coffee                                 |                     | |
 | 10:45-11:30 | Equity, Diversity, and Inclusion       |                     | |
-| 11:30-12:30 | Getting Started with Teaching & FEHA   |                     | |
+| 11:30-12:30 | Getting Started with Teaching & FHEA   |                     | |
 | 12:30-13:30 | Lunch                                  |                     | |
 | 13:30-14:00 | Narrative CV                           | Prof. Liam Cox      | |
 | 14:00-14.30 | Building Research Strategy             |                     | |
 | 14.30-15.15 | Research Impact                        |                     | |
 | 15:15-15:45 | Coffee                                 |                     | |
 | 15:45-16:15 | Engaging with Industry                 |                     | |
-| 16:15-17:00 | EPSRC Porfolio                         |                     |Molecular Sciences Building |
+| 16:15-17:00 | EPSRC Porfolio                         | Uditt Sharma & Jessica Parks, EPSRC |Molecular Sciences Building |
 | 17:00-18:00 | Networking                             |                     |Molecular Sciences Building |
 | 19:00-22:00 | Conference Dinner                      |                     | TBC |
 
