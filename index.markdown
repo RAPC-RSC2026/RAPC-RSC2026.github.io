@@ -16,7 +16,7 @@ _The following programme is tentative and is subject to change_
 | 1:00-1:10   | Welcome                            |                     | |
 | 1:10-3:30   | Networking Talks                   | Attendees           | |
 | 3:30-4:00   | Coffee Break                       |                     | |
-| 4:00-5:00   | Career, Life, and Building a Group |                     | |
+| 4:00-5:00   | Career, Life, and Building a Group | Prof. Helen Fielding, UCL  |Molecular Sciences Building |
 | 5:00-6:00   | Questions and Networking           | Attendees           |Molecular Sciences Building |
 
 ### Day 2
