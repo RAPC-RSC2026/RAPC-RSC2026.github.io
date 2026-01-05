@@ -26,7 +26,7 @@ _The following programme is tentative and is subject to change_
 | 9:30-10:15  | Mental Health in Academic Researcher   |                     | |
 | 10:15-10:45 | Coffee                                 |                     | |
 | 10:45-11:30 | Equity, Diversity, and Inclusion       |                     | |
-| 11:30-12:30 | Getting Started with Teaching & FHEA   |                     | |
+| 11:30-12:30 | Getting Started with Teaching          | Dr Dylan Williams   | |
 | 12:30-13:30 | Lunch                                  |                     | |
 | 13:30-14:00 | Narrative CV                           | Prof. Liam Cox      | |
 | 14:00-14.30 | Building Research Strategy             |                     | |
