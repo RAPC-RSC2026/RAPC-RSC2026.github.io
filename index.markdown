@@ -58,6 +58,10 @@ We are grateful to the following sponsors for generous support of the event.
         <td><img src="images/RSC-logo.jpg" alt="RSC Logo" style="width:150px;"></td>
   </tr>
 
+  <tr>
+        <td><img src="images/logo_ccp9_7.png" alt="CCP9 Logo" style="width:150px;"></td>
+  </tr>
+
 </table>
 
 
