@@ -42,12 +42,11 @@ _The following programme is tentative and is subject to change_
 
 | Timings     | Wednesday 09/09/26                      | Presenter           | Location  |
 |-------------|-----------------------------------------|---------------------|-----------|
-| 9:30-10:00  | Data Management                         |                             |  |
-| 10:00-10:30 | Coffee                                  |                             |  |
-| 10:30-11:30 | Publishing                              |                             |  |
-| 11:30-13:00 | Leadership as an Academic               |  Vincent O’Grady            |  |
+| 9:30-10:00  | Coffee                                  |                             |  |
+| 10:00-11:00 | Behind the Scenes of Publishing         |  Royal Society of Chemistry |  |
+| 11:00-13:00 | Leadership as an Academic               |  Vincent O’Grady            |  |
 |             |                                         |  People/Org. Development    |  |
-| 13:00-14:00 | Lunch and Networking                    |                     |  |
+| 13:00-14:00 | Lunch and Networking                    |                             |  |
 
 # Sponsors
 
@@ -88,13 +87,16 @@ You will receive individual information on your accommodation with rooms reserve
 
 The hotel is located on the University of Birmingham Campus, and is a short <10 min walk away from the Molecualr Sciences Building. 
 
+
+
 # Registration
 The meeting is intended for individuals recently (last ~3 years) appointed to independent positions (including Fellowships) at a UK-based institution, in the broad area of physical chemistry. 
 
 Interested colleagues should submit an expression of interest via the form here: <a href=" https://forms.office.com/e/edYwndEgfg
 ">Expression of Interest</a>
 
-Note there is a small registration fee of £30 if offered a place, which will include lunch, coffee breaks, symposium dinner, and acommodation for non-local participants.
+Note there is a nominal registration fee of £30 if offered a place, which will include lunch, coffee breaks, symposium dinner, and acommodation for non-local participants.
+
 
 
 # Organising Team
