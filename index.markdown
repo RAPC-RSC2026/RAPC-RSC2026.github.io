@@ -21,7 +21,7 @@ _The following programme is tentative and is subject to change_
 
 ### Day 2
 
-| Timings     | Tuesday 08/09/26                       | Presenter           | Location |
+| Timings     | Tuesday 08/09/26                       | Presenter           |  
 |-------------|----------------------------------------|---------------------|---------|
 | 9:30-10:15  | Mental Health in Academic Researcher    |                               | 
 | 10:15-10:45 | Coffee                                  |                               | 
@@ -40,14 +40,14 @@ _The following programme is tentative and is subject to change_
 
 ### Day 3
 
-| Timings     | Wednesday 09/09/26                      | Presenter           | Location  |
+| Timings     | Wednesday 09/09/26                      | Presenter           | 
 |-------------|-----------------------------------------|---------------------|-----------|
-| 9:30-10:00  | Coffee                                  |                             |  |
-| 10:00-11:00 | Behind the Scenes of Publishing         |  Royal Society of Chemistry |  |
-| 11:00-13:00 | Leadership as an Academic               |  Vincent O’Grady            |  |
-|             |                                         |  People/Org. Development    |  |
-| 13:00-14:00 | Lunch and Networking                    |                             |  |
-
+| 9:30-10:00  | Coffee                                  |                                 |  
+| 10:00-11:00 | Behind the Scenes of Publishing         |  Royal Society of Chemistry     |  
+| 11:00-13:00 | Leadership as an Academic               |  Vincent O’Grady                |  
+|             |                                         |  UoB People/Org. Development    | 
+| 13:00-14:00 | Lunch and Networking                    |                                 |  
+  
 # Sponsors
 
 We are grateful to the following sponsors for generous support of the event.
