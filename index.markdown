@@ -83,10 +83,19 @@ Exhibitors will be found within the Molecular Sciences Building.
 
 
 # Accomodation
-You will receive individual information on your accommodation with rooms reserved at:
+You will receive individual information on your accommodation with rooms reserved at: TBC
 .
 
 The hotel is located on the University of Birmingham Campus, and is a short <10 min walk away from the Molecualr Sciences Building. 
+
+# Registration
+The meeting is intended for individuals recently (last ~3 years) appointed to independent positions (including Fellowships) at a UK-based institution, in the broad area of physical chemistry. 
+
+Interested colleagues should submit an expression of interest via the form here: <a href=" https://forms.office.com/e/edYwndEgfg
+">Expression of Interest</a>
+
+Note there is a small registration fee of £30 if offered a place, which will include lunch, coffee breaks, symposium dinner, and acommodation for non-local participants.
+
 
 # Organising Team
 For any questions please get in touch by email:
