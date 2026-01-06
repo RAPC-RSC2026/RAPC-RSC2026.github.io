@@ -41,10 +41,11 @@ _The following programme is tentative and is subject to change_
 
 | Timings     | Wednesday 09/09/26                      | Presenter           | Location  |
 |-------------|-----------------------------------------|---------------------|-----------|
-| 9:30-10:00  | Data Management                         |                     |  |
-| 10:00-10:30 | Coffee                                  |                     |  |
-| 10:30-11:30 | Publishing                              |                     |  |
-| 11:30-13:00 | Leadership Development                  |                     |  |
+| 9:30-10:00  | Data Management                         |                             |  |
+| 10:00-10:30 | Coffee                                  |                             |  |
+| 10:30-11:30 | Publishing                              |                             |  |
+| 11:30-13:00 | Leadership as an Academic               |  Vincent O’Grady            |  |
+|             |                                         |  People/Org. Development    |  |
 | 13:00-14:00 | Lunch and Networking                    |                     |  |
 
 # Sponsors
