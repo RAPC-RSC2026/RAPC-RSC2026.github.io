@@ -32,7 +32,7 @@ _The following programme is tentative and is subject to change_
 | 14:00-14.30 | Building Research Strategy              |                               | 
 | 14.30-15.15 | Research Impact                         |                               |
 | 15:15-15:45 | Coffee                                  |                               | 
-| 15:45-16:15 | Engaging with Industry                  |                               |
+| 15:45-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
 | 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma & Jessica Parks  |
 |             |                                         |          EPSRC                |
 | 17:00-18:00 | Networking                              |                               |
