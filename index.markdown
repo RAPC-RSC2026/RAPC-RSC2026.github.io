@@ -26,11 +26,11 @@ _The following programme is tentative and is subject to change_
 | 9:30-10:15  | Mental Health in Academic Researcher    |                               | 
 | 10:15-10:45 | Coffee                                  |                               | 
 | 10:45-11:30 | Equity, Diversity, and Inclusion        |                               | 
-| 11:30-12:30 | Getting Started with Teaching           | Dr Dylan Williams (UoB)       | 
+| 11:30-12:30 | Getting Started with Teaching           | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)       | 
 | 12:30-13:30 | Lunch                                   |                               | 
 | 13:30-14:00 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
 | 14:00-14.30 | Research Impact                         | Prof.                         | 
-| 14.30-15.15 | Building Research Strategy              | Prof. David Scanlon (UoB)     |
+| 14.30-15.15 | Building Research Strategy              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)     |
 | 15:15-15:45 | Coffee                                  |                               | 
 | 15:45-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
 | 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma & Jessica Parks  |
