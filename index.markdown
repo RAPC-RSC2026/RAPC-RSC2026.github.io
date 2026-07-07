@@ -28,7 +28,7 @@ _The following programme is tentative and is subject to change_
 | 10:45-11:30 | Equity, Diversity, and Inclusion        |                               | 
 | 11:30-12:30 | Getting Started with Teaching           | Dr Dylan Williams (UoB)       | 
 | 12:30-13:30 | Lunch                                   |                               | 
-| 13:30-14:00 | Narrative CV                            | Prof. Liam Cox (UoB)          | 
+| 13:30-14:00 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
 | 14:00-14.30 | Research Impact                         | Prof.                         | 
 | 14.30-15.15 | Building Research Strategy              | Prof. David Scanlon (UoB)     |
 | 15:15-15:45 | Coffee                                  |                               | 
