@@ -16,7 +16,8 @@ _The following programme is tentative and is subject to change_
 | 1:00-1:10   | Welcome                            |                            |
 | 1:10-3:30   | Networking Talks                   | Attendees                  |
 | 3:30-4:00   | Coffee Break                       |                            |
-| 4:00-5:00   | Career, Life, and Building a Group | Prof. Helen Fielding, UCL  |
+| 4:00-5:00   | Career, Life, and Building a Group | <a href="https://profiles.ucl.ac.uk/3176-helen-fielding
+">Prof. Helen Fielding </a>, UCL  |
 | 5:00-6:00   | Questions and Networking           | Attendees                  |
 
 ### Day 2
@@ -29,8 +30,8 @@ _The following programme is tentative and is subject to change_
 | 11:30-12:30 | Getting Started with Teaching           | Dr Dylan Williams (UoB)       | 
 | 12:30-13:30 | Lunch                                   |                               | 
 | 13:30-14:00 | Narrative CV                            | Prof. Liam Cox (UoB)          | 
-| 14:00-14.30 | Building Research Strategy              |                               | 
-| 14.30-15.15 | Research Impact                         |                               |
+| 14:00-14.30 | Research Impact                         | Prof.                         | 
+| 14.30-15.15 | Building Research Strategy              | Prof. David Scanlon (UoB)     |
 | 15:15-15:45 | Coffee                                  |                               | 
 | 15:45-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
 | 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma & Jessica Parks  |
