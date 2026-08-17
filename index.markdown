@@ -15,7 +15,8 @@ _The following programme is tentative and is subject to change_
 | 12:00-1:00  | Registration & Lunch               |                            |
 | 1:00-1:10   | Welcome                            |                            |
 | 1:10-3:30   | Networking Talks                   | Attendees                  |
-| 3:30-4:00   | Coffee Break                       |                            |
+| 3:30-3:40   | Sponsor Showcase - Bruker          |                            |
+| 3:40-4:00   | Coffee Break                       |                            |
 | 4:00-5:00   | Career, Life, and Building a Group | <a href="https://profiles.ucl.ac.uk/3176-helen-fielding">Prof. Helen Fielding </a>, UCL  |
 | 5:00-6:00   | Questions and Networking           | Attendees                  |
 
@@ -23,20 +24,19 @@ _The following programme is tentative and is subject to change_
 
 | Timings     | Tuesday 08/09/26                       | Presenter           |  
 |-------------|----------------------------------------|---------------------|---------|
-| 9:30-10:15  | Mental Health in Academic Researcher    |                               | 
-| 10:15-10:45 | Coffee                                  |                               | 
-| 10:45-11:30 | Equity, Diversity, and Inclusion        |                               | 
-| 11:30-12:30 | Getting Started with Teaching           | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)       | 
-| 12:30-13:30 | Lunch                                   |                               | 
-| 13:30-14:00 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
-| 14:00-14.30 | Research Impact                         | Prof.                         | 
+| 9:30-10:00  |  Coffee & Networking                    |                              |
+| 10:00-10:45 | Equity, Diversity, and Inclusion        |         Dr Xue Yong                      | 
+| 10:45-12:00 |    Getting Started with Teaching           | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)       | 
+| 12:00-13:00 | Lunch                                   |                               | 
+| 13.00-14.00 | Research Impact                        | Megan Chance. UoB Research Impact Develpment Partner
+| 14:00-14:30 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
 | 14.30-15.15 | Building Research Strategy              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)     |
-| 15:15-15:45 | Coffee                                  |                               | 
-| 15:45-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
-| 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma & Jessica Parks  |
+| 15:15-15:30 | Coffee                                  |                               | 
+| 15:30-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
+| 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma                  |
 |             |                                         |          EPSRC                |
 | 17:00-18:00 | Networking                              |                               |
-| 19:00-22:00 | Conference Dinner                       |                               | 
+| 19:00-22:00 | Meeting Dinner                       |                               | 
 
 ### Day 3
 
