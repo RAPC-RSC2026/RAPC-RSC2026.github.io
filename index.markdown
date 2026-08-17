@@ -30,8 +30,8 @@ _The following programme is tentative and is subject to change_
 | 12:00-13:00 | Lunch                                   |                               | 
 | 13.00-14.00 | Research Impact                        | Megan Chance. UoB Research Impact Develpment Partner
 | 14:00-14:30 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
-| 14.30-15.15 | Building Research Strategy              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)     |
-| 15:15-15:30 | Coffee                                  |                               | 
+| 14.30-15.00 | Building Research Strategy              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)     |
+| 15:00-15:30 | Coffee                                  |                               | 
 | 15:30-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
 | 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma                  |
 |             |                                         |          EPSRC                |
