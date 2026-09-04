@@ -62,6 +62,10 @@ We are grateful to the following sponsors for generous support of the event.
         <td><img src="images/logo_ccp9_7.png" alt="CCP9 Logo" style="width:150px;"></td>
   </tr>
 
+  <tr>
+        <td><img src="images/logo_rgb_300dpi.png" alt="Bruker Logo" style="width:150px;"></td>
+  </tr>
+
 </table>
 
 
