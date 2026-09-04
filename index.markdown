@@ -4,49 +4,48 @@ layout: default
 
 # Welcome to the Recent Appointees in Physical Chemistry 2026
 
-**The latest edition of the Recent Appointees in Physical Chemistry organised by the RSC Faraday Council will be held at the University of Birmingham from 07/09/2026 and 09/09/2026.**
+**The latest edition of the Recent Appointees in Physical Chemistry organised by the RSC Faraday Council will be held at the University of Birmingham (UoB) from 07/09/2026 and 09/09/2026.**
 
 # Schedule
-_The following programme is tentative and is subject to change_
+
+
 ### Day 1
 
-| Timings     | Monday 07/09/26                    | Presenter           | 
-|-------------|------------------------------------|---------------------|
-| 12:00-1:00  | Registration & Lunch               |                            |
-| 1:00-1:10   | Welcome                            |                            |
-| 1:10-3:30   | Networking Talks                   | Attendees                  |
-| 3:30-3:40   | Sponsor Showcase - Bruker          |                            |
-| 3:40-4:00   | Coffee Break                       |                            |
-| 4:00-5:00   | Career, Life, and Building a Group | <a href="https://profiles.ucl.ac.uk/3176-helen-fielding">Prof. Helen Fielding </a>, UCL  |
-| 5:00-6:00   | Questions and Networking           | Attendees                  |
+| Timings     | Monday 07/09/26                    | Presenter                          | 
+|-------------|------------------------------------|------------------------------------|
+| 12:00-1:00  | Registration & Lunch               |                                    |
+| 1:00-1:10   | Welcome                            |                                    |
+| 1:10-3:30   | Networking Talks                   | Attendees                          |
+| 3:30-3:40   | Sponsor Showcase - Bruker          | Rehan Shah & Laksha Parameswaran   |
+| 3:40-4:00   | Coffee Break                       |                                    |
+| 4:00-5:00   | Career, Life, and Building a Group | <a href="https://profiles.ucl.ac.uk/3176-helen-fielding">Prof. Helen Fielding </a>, University College London                  |
+| 5:00-6:00   | Questions and Networking           | Attendees                          |
 
 ### Day 2
 
-| Timings     | Tuesday 08/09/26                       | Presenter           |  
-|-------------|----------------------------------------|---------------------|---------|
-| 9:30-10:00  |  Coffee & Networking                    |                              |
-| 10:00-10:45 | Equity, Diversity, and Inclusion        |     <a href="https://www.liverpool.ac.uk/people/xue-yong"> Dr Xue Yong </a>, Liverpool                  | 
-| 10:45-12:00 |    Getting Started with Teaching           | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)       | 
-| 12:00-13:00 | Lunch                                   |                               | 
-| 13.00-14.00 | Research Impact                        | Megan Chance. UoB Research Impact Develpment Partner
-| 14:00-14:30 | Narrative CV                            | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)          | 
-| 14.30-15.00 | Building Research Strategy              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)     |
-| 15:00-15:30 | Coffee                                  |                               | 
-| 15:30-16:15 | Engaging with Industry                  | AWE Nuclear Science Techn.    |
-| 16:15-17:00 | EPSRC Portfolio                         | Uditt Sharma                  |
-|             |                                         |          EPSRC                |
-| 17:00-18:00 | Networking                              |                               |
-| 19:00-22:00 | Meeting Dinner                       |                               | 
+| Timings     | Tuesday 08/09/26                          | Presenter                                                                                                                |  
+|-------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 9:30-10:00  |  Coffee & Networking                      |                                                                                                                          |
+| 10:00-10:45 | Equity, Diversity, and Inclusion          | <a href="https://www.liverpool.ac.uk/people/xue-yong"> Dr Xue Yong </a>, University of Liverpool                         | 
+| 10:45-12:00 |    Getting Started with Teaching          | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)             | 
+| 12:00-13:00 | Lunch                                     |                                                                                                                          | 
+| 13.00-14.00 | Research Impact                           | <a href="https://www.linkedin.com/in/megan-chance-6ba95915b/"> Megan Chance </a>. UoB Research Impact Develpment Partner |
+| 14:00-14:30 | Narrative CV                              | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/cox-liam"> Prof. Liam Cox </a> (UoB)                      | 
+| 14.30-15.00 | Building Research Strategy                | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/scanlon-david"> Prof. David Scanlon </a> (UoB)            |
+| 15:00-15:30 | Coffee                                    |                                                                                                                          | 
+| 15:30-16:15 | Engaging with Industry                    | <a href="https://www.awe.co.uk/"> AWE Nuclear Security Technologies </a>                                                 |
+| 16:15-17:00 | EPSRC Portfolio                           | Dr Uditt Sharma & Dr Samuel Alcorn, UKRI EPSRC                                                                           |
+| 17:00-18:00 | Networking                                |                                                                                                                          |
+| 19:30---    | Meeting Dinner & Drinks                   |  Mowgli's Restaurant, Birmingham Grand Central                                                                           | 
 
 ### Day 3
 
-| Timings     | Wednesday 09/09/26                      | Presenter           | 
-|-------------|-----------------------------------------|---------------------|-----------|
-| 9:30-10:00  | Coffee                                  |                                 |  
-| 10:00-11:00 | Behind the Scenes of Publishing         |  Royal Society of Chemistry     |  
-| 11:00-13:00 | Leadership as an Academic               |  Vincent O’Grady                |  
-|             |                                         |  UoB People/Org. Development    | 
-| 13:00-14:00 | Lunch and Networking                    |                                 |  
+| Timings     | Wednesday 09/09/26                        | Presenter                                                                                                                | 
+|-------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 9:30-10:00  | Coffee                                    |                                                                                                                          |  
+| 10:00-11:00 | Behind the Scenes of Publishing           |  Ashley McGovern, Asst. Editor, Royal Society of Chemistry                                                               |  
+| 11:00-13:00 | Leadership as an Academic                 |  Vincent O’Grady, UoB People and Organisation Development                                                                |  
+| 13:00-14:00 | Lunch and Networking                      |                                                                                                                          |  
   
 # Sponsors
 
