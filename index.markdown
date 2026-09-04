@@ -25,7 +25,7 @@ _The following programme is tentative and is subject to change_
 | Timings     | Tuesday 08/09/26                       | Presenter           |  
 |-------------|----------------------------------------|---------------------|---------|
 | 9:30-10:00  |  Coffee & Networking                    |                              |
-| 10:00-10:45 | Equity, Diversity, and Inclusion        |         Dr Xue Yong                      | 
+| 10:00-10:45 | Equity, Diversity, and Inclusion        |     <a href="https://www.liverpool.ac.uk/people/xue-yong"> Dr Xue Yong </a>, Liverpool                  | 
 | 10:45-12:00 |    Getting Started with Teaching           | <a href="https://www.birmingham.ac.uk/staff/profiles/chemistry/williams-dylan"> Dr Dylan Williams </a> (UoB)       | 
 | 12:00-13:00 | Lunch                                   |                               | 
 | 13.00-14.00 | Research Impact                        | Megan Chance. UoB Research Impact Develpment Partner
